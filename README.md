@@ -10,9 +10,4 @@ https://github.com/ismaelivangmail/GN3Nominas
 
 ## Vista Previa
 
-Mi proveedor me tiene sobre CGNAT, por lo cual no puedo compartir mediante No-IP o similares.
-Es necesario instalar [Tailsacale](https://tailscale.com/download) e ingresar a la siguiente dirección:
-
-```bash
-http://100.107.208.55/apinominas
-```
+[http://gn3nomina.ddns.net/apinominas](http://gn3nomina.ddns.net/apinominas/)
